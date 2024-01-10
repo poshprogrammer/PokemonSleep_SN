@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="60e9fd5347233510308ff2cf016d43c1" label="Pokémon" max_length="40" name="x_151516_pok_mon_0_pok_mon" type="collection">
+        <element label="Befriended" max_length="40" name="befriended" type="boolean"/>
+        <element label="Berry" mandatory="true" max_length="32" name="berry" reference="x_151516_pok_mon_0_berry" type="reference"/>
+        <element label="Default Ingredient" mandatory="true" max_length="32" name="default_ingredient" reference="x_151516_pok_mon_0_ingredient" type="reference"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Number" mandatory="true" max_length="40" name="number" type="integer"/>
+        <element choice="1" label="Sleep Type" mandatory="true" max_length="40" name="sleep_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Dozing" sequence="0" value="dozing"/>
+                <element inactive_on_update="false" label="Snoozing" sequence="1" value="snoozing"/>
+                <element inactive_on_update="false" label="Slumbering" sequence="2" value="slumbering"/>
+            </choice>
+        </element>
+        <element choice="1" label="Specialty" max_length="40" name="specialty" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ingredients" sequence="0" value="ingredients"/>
+                <element inactive_on_update="false" label="Berries" sequence="1" value="berries"/>
+                <element inactive_on_update="false" label="Skills" sequence="2" value="skills"/>
+            </choice>
+        </element>
+        <element label="Studied" max_length="40" name="studied" type="boolean"/>
+        <element choice="1" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Normal" sequence="0" value="normal"/>
+                <element inactive_on_update="false" label="Grass" sequence="1" value="grass"/>
+                <element inactive_on_update="false" label="Fire" sequence="2" value="fire"/>
+                <element inactive_on_update="false" label="Water" sequence="3" value="water"/>
+                <element inactive_on_update="false" label="Fighting" sequence="4" value="fighting"/>
+                <element inactive_on_update="false" label="Flying" sequence="5" value="flying"/>
+                <element inactive_on_update="false" label="Poison" sequence="6" value="poison"/>
+                <element inactive_on_update="false" label="Ground" sequence="7" value="ground"/>
+                <element inactive_on_update="false" label="Rock" sequence="8" value="rock"/>
+                <element inactive_on_update="false" label="Bug" sequence="9" value="bug"/>
+                <element inactive_on_update="false" label="Ghost" sequence="10" value="ghost"/>
+                <element inactive_on_update="false" label="Electric" sequence="11" value="electric"/>
+                <element inactive_on_update="false" label="Psychic" sequence="12" value="psychic"/>
+                <element inactive_on_update="false" label="Ice" sequence="13" value="ice"/>
+                <element inactive_on_update="false" label="Dragon" sequence="14" value="dragon"/>
+                <element inactive_on_update="false" label="Dark" sequence="15" value="dark"/>
+                <element inactive_on_update="false" label="Steel" sequence="16" value="steel"/>
+                <element inactive_on_update="false" label="Fairy" sequence="17" value="fairy"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="berry"/>
+        </index>
+        <index name="index2">
+            <element name="default_ingredient"/>
+        </index>
+    </element>
+</database>

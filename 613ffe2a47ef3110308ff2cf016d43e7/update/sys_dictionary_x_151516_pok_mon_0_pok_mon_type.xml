@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="category" table="x_151516_pok_mon_0_dish">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="type" table="x_151516_pok_mon_0_pok_mon">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -8,7 +8,7 @@
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Category</column_label>
+        <column_label>Type</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>category</element>
+        <element>type</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -30,10 +30,10 @@
         <internal_type display_value="Choice">choice</internal_type>
         <mandatory>true</mandatory>
         <max_length>40</max_length>
-        <name>x_151516_pok_mon_0_dish</name>
+        <name>x_151516_pok_mon_0_pok_mon</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -46,14 +46,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-01-09 17:59:48</sys_created_on>
-        <sys_name>Category</sys_name>
+        <sys_created_on>2024-01-10 19:21:14</sys_created_on>
+        <sys_name>Type</sys_name>
         <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
-        <sys_update_name>sys_dictionary_x_151516_pok_mon_0_dish_category</sys_update_name>
+        <sys_update_name>sys_dictionary_x_151516_pok_mon_0_pok_mon_type</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-10 19:07:21</sys_updated_on>
+        <sys_updated_on>2024-01-10 19:21:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
