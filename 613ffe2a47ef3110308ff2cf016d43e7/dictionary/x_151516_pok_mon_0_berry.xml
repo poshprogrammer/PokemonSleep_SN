@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="925fb26a47ef3110308ff2cf016d43bb" label="Berry" max_length="40" name="x_151516_pok_mon_0_berry" type="collection">
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Unlocked" max_length="40" name="unlocked" type="boolean"/>
+    </element>
+</database>

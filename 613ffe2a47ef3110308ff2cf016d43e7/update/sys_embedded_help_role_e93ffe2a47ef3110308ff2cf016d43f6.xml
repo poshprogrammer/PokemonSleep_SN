@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_151516_pok_mon_0.user" name="x_151516_pok_mon_0.user">6d3ffe2a47ef3110308ff2cf016d43f5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 16:16:31</sys_created_on>
+        <sys_id>e93ffe2a47ef3110308ff2cf016d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6d3ffe2a47ef3110308ff2cf016d43f5</sys_name>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e93ffe2a47ef3110308ff2cf016d43f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 16:16:31</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

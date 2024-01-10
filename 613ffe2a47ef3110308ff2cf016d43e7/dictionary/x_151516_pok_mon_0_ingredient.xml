@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e5dc984f47e7b110308ff2cf016d4337" label="Ingredient" max_length="40" name="x_151516_pok_mon_0_ingredient" type="collection">
+        <element label="Base Strength" mandatory="true" max_length="40" name="base_strength" type="integer"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Sell Value (Dream Shards)" mandatory="true" max_length="40" name="sell_value_dream_shards" type="integer"/>
+        <element label="Unlocked" max_length="40" name="unlocked" type="boolean"/>
+    </element>
+</database>

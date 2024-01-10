@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ingedients" label="Ingredients" language="en" table="x_151516_pok_mon_0_dish">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ingedients</element>
+            <help/>
+            <hint/>
+            <label>Ingredients</label>
+            <language>en</language>
+            <name>x_151516_pok_mon_0_dish</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-09 17:57:27</sys_created_on>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>Ingredients</sys_name>
+            <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+            <sys_update_name>sys_documentation_x_151516_pok_mon_0_dish_ingedients_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-09 21:17:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
