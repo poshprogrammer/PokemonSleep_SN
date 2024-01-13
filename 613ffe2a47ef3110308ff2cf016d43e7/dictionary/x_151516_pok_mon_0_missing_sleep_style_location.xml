@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="97823733476b7110308ff2cf016d43d0" label="Missing Sleep Style Location" max_length="40" name="x_151516_pok_mon_0_missing_sleep_style_location" type="collection">
+        <element label="Research Area Level" mandatory="true" max_length="32" name="research_area_level" reference="x_151516_pok_mon_0_research_area_level" type="reference"/>
+        <element attributes="encode_utf8=false,ref_auto_completer=AJAXTableCompleter,ref_ac_columns=pokemon,ref_ac_columns_search=true " label="Sleep Style" mandatory="true" max_length="32" name="sleep_style" reference="x_151516_pok_mon_0_sleep_style" reference_qual="studied=false^EQ" reference_qual_condition="studied=false^EQ" type="reference"/>
+        <index name="index">
+            <element name="research_area_level"/>
+        </index>
+        <index name="index2">
+            <element name="sleep_style"/>
+        </index>
+    </element>
+</database>
