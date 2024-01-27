@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Pokémon Sleep App Config">90ba3550e737f110633a85c7bc4aa166</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>List</name>
+        <optional_parameters>listId,configId,tinyId</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>list</route_type>
+        <screen_type display_value="List">50ba35504937f110dce8e52fa1e8515a</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 21:46:33</sys_created_on>
+        <sys_id>54ba3550b237f110c377af91a88b4c59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List</sys_name>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>sys_ux_app_route_54ba3550b237f110c377af91a88b4c59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-13 21:46:33</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=54ba3550b237f110c377af91a88b4c59"/>
+</record_update>

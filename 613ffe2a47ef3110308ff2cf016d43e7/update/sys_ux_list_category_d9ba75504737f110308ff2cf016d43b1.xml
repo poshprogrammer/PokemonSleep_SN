@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Pokémon Sleep_menu_config">95ba75504737f110308ff2cf016d43af</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 21:46:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d9ba75504737f110308ff2cf016d43b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sleep Style</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>sys_ux_list_category_d9ba75504737f110308ff2cf016d43b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-13 21:46:35</sys_updated_on>
+        <title>Sleep Style</title>
+    </sys_ux_list_category>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 21:46:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1cba35509937f110b9f7b8517bcb5464</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>m2m_app_config_theme_1cba35509937f110b9f7b8517bcb5464</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-13 21:46:32</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="Pokémon Sleep App Config">90ba3550e737f110633a85c7bc4aa166</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

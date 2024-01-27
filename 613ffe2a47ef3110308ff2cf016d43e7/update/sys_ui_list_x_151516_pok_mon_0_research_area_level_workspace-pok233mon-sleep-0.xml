@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_151516_pok_mon_0_research_area_level" version="2" view="workspace-pok233mon-sleep-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_151516_pok_mon_0_research_area_level" element="NULL" name="x_151516_pok_mon_0_research_area_level" parent="NULL" relationship="NULL" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">efba79504737f110308ff2cf016d435f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:44</sys_created_on>
+            <sys_id>2bba79504737f110308ff2cf016d4360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_151516_pok_mon_0_research_area_level" element="NULL" name="x_151516_pok_mon_0_research_area_level" parent="NULL" relationship="NULL" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">efba79504737f110308ff2cf016d435f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:44</sys_created_on>
+            <sys_id>2fba79504737f110308ff2cf016d4360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_151516_pok_mon_0_research_area_level" element="NULL" name="x_151516_pok_mon_0_research_area_level" parent="NULL" relationship="NULL" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">efba79504737f110308ff2cf016d435f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:44</sys_created_on>
+            <sys_id>23ba79504737f110308ff2cf016d4361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_151516_pok_mon_0_research_area_level" element="NULL" name="x_151516_pok_mon_0_research_area_level" parent="NULL" relationship="NULL" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">efba79504737f110308ff2cf016d435f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:44</sys_created_on>
+            <sys_id>27ba79504737f110308ff2cf016d4361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_mod_count</element>
+            <list_id display_value="x_151516_pok_mon_0_research_area_level" element="NULL" name="x_151516_pok_mon_0_research_area_level" parent="NULL" relationship="NULL" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">efba79504737f110308ff2cf016d435f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:44</sys_created_on>
+            <sys_id>2bba79504737f110308ff2cf016d4361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_151516_pok_mon_0_research_area_level</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efba79504737f110308ff2cf016d435f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_151516_pok_mon_0_research_area_level</sys_name>
+            <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+            <sys_update_name>sys_ui_list_x_151516_pok_mon_0_research_area_level_workspace-pok233mon-sleep-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Pok233mon Sleep 0" name="workspace-pok233mon-sleep-0">dcba3550d237f1105c36d1be7f52355b</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

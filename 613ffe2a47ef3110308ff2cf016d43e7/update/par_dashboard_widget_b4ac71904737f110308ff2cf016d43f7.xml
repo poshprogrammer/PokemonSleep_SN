@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">1cba35500b37f110f2102b32067cd55e</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"x_151516_pok_mon_0_missing_sleep_style_location","fixedQuery":"","listTitle":"Sleep Styles To Be Studied","columns":"sleep_style.pokemon.number,sleep_style.pokemon,sleep_style.pokemon.sleep_type,sleep_style,research_area_level,sleep_style.rarity","query":"ORDERBYresearch_area_level.strength^ORDERBYsleep_style.pokemon.number","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"refreshRequested":"","noDebounce":"","limit":25}</component_props>
+        <h>45</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 21:55:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b4ac71904737f110308ff2cf016d43f7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>par_dashboard_widget_b4ac71904737f110308ff2cf016d43f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-14 15:30:25</sys_updated_on>
+        <visualization/>
+        <w>39</w>
+        <widget_props/>
+        <x>9</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Pokémon Sleep generated</description>
+        <name>view</name>
+        <page display_value="Pokémon Sleep">dcba35506737f110c33cd7c051889b65</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 21:46:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>94ba3550cf37f1101898e213f9064a55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>sys_ux_page_property_94ba3550cf37f1101898e213f9064a55</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-13 21:46:33</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_151516_pok_mon_0.dcba35506737f110c33cd7c051889b65.root.view</unique_name>
+        <value>workspace-pok233mon-sleep-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=94ba3550cf37f1101898e213f9064a55"/>
+</record_update>
