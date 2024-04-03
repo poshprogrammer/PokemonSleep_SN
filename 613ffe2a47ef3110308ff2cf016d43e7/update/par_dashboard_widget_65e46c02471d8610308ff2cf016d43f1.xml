@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">1cba35500b37f110f2102b32067cd55e</canvas>
+        <component display_value="Dial">63f050cf050137731a828878839e0b33</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","minValue":0,"maxValue":127,"innerRadius":0.7,"valueLabelSize":"md","showZero":true,"colorConfig":{"type":"singleColor","values":[{"color":"0c2b2cd75b712110e5ba6e8a1d81c7ba","metric":"ZEdGaWJHVjRYekUxTVRVeE5sOXdiMnRmYlc5dVh6QmZjRzlyWDIxdmJqRTNNVEl3TnpJd01EVXhNVEU9MTcxMjA3MjAwNTYyMQ==","rules":[{"operator":"&lt;","order":100,"color":"65b30395a9fe3dba003277a7b660b5db","value1":42},{"operator":"between","order":100,"color":"65b303c7a9fe3dba000882c19631a889","value1":42,"value2":84},{"operator":"&gt;","order":100,"color":"65b302aea9fe3dba00a530d65ecc2106","value1":84}]}]},"newReporting":false,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Pokémon","sourceType":"table","tableOrViewName":"x_151516_pok_mon_0_pok_mon","filterQuery":"befriended=true","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzE1MTUxNl9wb2tfbW9uXzBfcG9rX21vbjE3MTIwNzIwMDUxMTE=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Pokémon Befriended","showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzE1MTUxNl9wb2tfbW9uXzBfcG9rX21vbjE3MTIwNzIwMDUxMTE=","id":"ZEdGaWJHVjRYekUxTVRVeE5sOXdiMnRmYlc5dVh6QmZjRzlyWDIxdmJqRTNNVEl3TnpJd01EVXhNVEU9MTcxMjA3MjAwNTYyMQ==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default","noDebounce":"","selectedElements":[]}</component_props>
+        <h>11</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-02 15:35:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>65e46c02471d8610308ff2cf016d43f1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>par_dashboard_widget_65e46c02471d8610308ff2cf016d43f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-02 15:41:07</sys_updated_on>
+        <visualization/>
+        <w>17</w>
+        <widget_props/>
+        <x>16</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
