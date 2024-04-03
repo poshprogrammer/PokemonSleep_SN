@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="314f5803472bb110308ff2cf016d4330" label="Dish" max_length="40" name="x_151516_pok_mon_0_dish" type="collection">
+        <element label="Adjusted Power (by Level)" mandatory="true" max_length="40" name="adjusted_power_by_level" type="integer"/>
+        <element label="Base Power" mandatory="true" max_length="255" name="base_power" read_only="true" type="integer"/>
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Curry" sequence="0" value="curry"/>
+                <element inactive_on_update="false" label="Salad" sequence="1" value="salad"/>
+                <element inactive_on_update="false" label="Dessert" sequence="2" value="dessert"/>
+            </choice>
+        </element>
+        <element label="Ingredients" mandatory="true" max_length="300" name="ingedients" read_only="true" type="string"/>
+        <element label="Level" mandatory="true" max_length="40" name="level" type="integer"/>
+        <element label="Link to Serebii" mandatory="true" max_length="40" name="link_to_serebii" type="url"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" read_only="true" type="string"/>
+        <element label="Unlocked" max_length="40" name="unlocked" type="boolean"/>
+    </element>
+</database>

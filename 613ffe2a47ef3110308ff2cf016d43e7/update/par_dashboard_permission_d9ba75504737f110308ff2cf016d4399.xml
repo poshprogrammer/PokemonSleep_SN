@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Pokémon Sleep">d0ba3550dd37f1109454e0e095846d5e</dashboard>
+        <group/>
+        <role display_value="x_151516_pok_mon_0.admin" name="x_151516_pok_mon_0.admin">e53ffe2a47ef3110308ff2cf016d43f0</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 21:46:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d9ba75504737f110308ff2cf016d4399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d0ba3550dd37f1109454e0e095846d5e</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>par_dashboard_permission_d9ba75504737f110308ff2cf016d4399</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-13 21:46:35</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

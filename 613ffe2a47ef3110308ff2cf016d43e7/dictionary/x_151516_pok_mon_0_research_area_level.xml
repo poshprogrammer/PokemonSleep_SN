@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="77d5eb73472b7110308ff2cf016d4380" label="Research Area Level" max_length="40" name="x_151516_pok_mon_0_research_area_level" type="collection">
+        <element display="true" label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element choice="1" label="Rank" mandatory="true" max_length="40" name="rank" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Basic" sequence="0" value="basic"/>
+                <element inactive_on_update="false" label="Great" sequence="1" value="great"/>
+                <element inactive_on_update="false" label="Ultra" sequence="2" value="ultra"/>
+                <element inactive_on_update="false" label="Master" sequence="3" value="master"/>
+            </choice>
+        </element>
+        <element label="Research Area" mandatory="true" max_length="32" name="research_area" reference="x_151516_pok_mon_0_research_area" type="reference"/>
+        <element label="Strength" mandatory="true" max_length="40" name="strength" type="integer"/>
+        <element label="Unlocked" max_length="40" name="unlocked" type="boolean"/>
+        <index name="index">
+            <element name="research_area"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">1cba35500b37f110f2102b32067cd55e</canvas>
+        <component display_value="Vertical bar">23051643b7e03010097cb81cde11a910</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","chartVariation":"grouped","yAxisHidden":false,"yAxisPosition":"bottom","yAxisShowGrid":true,"xAxisWrapLabels":false,"xAxisMaxLabelSize":100,"xAxisTruncationType":"end","yAxisStyle":"default","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"showDataLabels":false,"dataLabelPosition":"middle","showStackedValues":"none","showOverlappingLabels":false,"colorConfig":{"type":"default"},"newReporting":false,"additionalGroupByConfig":[{"id":"research_area_level.research_area","label":"Research Area Level &gt; Research Area"},{"id":"sleep_style.pokemon.sleep_type","label":"Sleep Style &gt; Pokémon &gt; Sleep Type"}],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Missing Sleep Style Location","sourceType":"table","tableOrViewName":"x_151516_pok_mon_0_missing_sleep_style_location","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzE1MTUxNl9wb2tfbW9uXzBfbWlzc2luZ19zbGVlcF9zdHlsZV9sb2NhdGlvbjE3MTIwNzI1MDg3Nzk=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Missing Sleep Styles By Location and Type","showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzE1MTUxNl9wb2tfbW9uXzBfbWlzc2luZ19zbGVlcF9zdHlsZV9sb2NhdGlvbjE3MTIwNzI1MDg3Nzk=","id":"ZEdGaWJHVjRYekUxTVRVeE5sOXdiMnRmYlc5dVh6QmZiV2x6YzJsdVoxOXpiR1ZsY0Y5emRIbHNaVjlzYjJOaGRHbHZiakUzTVRJd056STFNRGczTnprPTE3MTIwNzI1MDk0NDU=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGV4XzE1MTUxNl9wb2tfbW9uXzBfbWlzc2luZ19zbGVlcF9zdHlsZV9sb2NhdGlvbjE3MTIwNzI1MDg3Nzk=","groupByField":"research_area_level.research_area","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false},{"groupBy":[{"dataSource":"dGFibGV4XzE1MTUxNl9wb2tfbW9uXzBfbWlzc2luZ19zbGVlcF9zdHlsZV9sb2NhdGlvbjE3MTIwNzI1MDg3Nzk=","groupByField":"sleep_style.pokemon.sleep_type","isRange":false,"isChoice":true,"isPaBucket":false}],"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":false,"filterConfigurations":"@state.parFilters","contextMenuActions":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default","componentId":"41f7wpto","noDebounce":"","showDateRangeByDefault":false,"allowChangeDateRange":false,"selectedElements":[]}</component_props>
+        <h>28</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-02 15:42:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>fb96a4c2471d8610308ff2cf016d43af</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>par_dashboard_widget_fb96a4c2471d8610308ff2cf016d43af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-02 17:58:58</sys_updated_on>
+        <visualization/>
+        <w>19</w>
+        <widget_props/>
+        <x>0</x>
+        <y>11</y>
+    </par_dashboard_widget>
+</record_update>

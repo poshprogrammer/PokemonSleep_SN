@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b991e58b472fb110308ff2cf016d437c" label="Research Area" max_length="40" name="x_151516_pok_mon_0_research_area" type="collection">
+        <element label="Area Bonus" mandatory="true" max_length="40" name="area_bonus" type="integer"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" read_only="true" type="string"/>
+        <element label="Required Number of Sleep Styles" mandatory="true" max_length="255" name="num_sleep_styles" read_only="true" type="integer"/>
+        <element label="Pokémon Befriended" mandatory="true" max_length="40" name="pokemon_befriended" type="integer"/>
+        <element label="Sleep Styles Studied" mandatory="true" max_length="40" name="sleep_styles_studied" type="integer"/>
+        <element label="Strength Record (Num)" mandatory="true" max_length="40" name="strength_record_num" type="integer"/>
+        <element label="Team RP Target" mandatory="true" max_length="40" name="team_rp_target" read_only="true" type="integer"/>
+        <element label="Unlocked" max_length="40" name="unlocked" type="boolean"/>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">1795ac02471d8610308ff2cf016d43a4</canvas>
+        <component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component>
+        <component_props>{"filterId":"1hk2cqhjtf4roqnln0lg","filterName":"Sleep Type","filterComponentType":"singleselect","datasource":{"type":"table","table":{"id":"x_151516_pok_mon_0_missing_sleep_style_location"},"field":{"id":"sleep_style.pokemon.sleep_type","type":"choice","reference":""}},"targets":[{"type":"table","table":{"id":"x_151516_pok_mon_0_missing_sleep_style_location"},"field":{"id":"sleep_style.pokemon.sleep_type","type":"choice","reference":""}}],"defaultSelectedItems":[],"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"maxElements":500,"filterConfigurations":"@state.parFilters","cascadeScope":"cb2469ee-4287-4aae-b614-88826531e14a","noDebounce":"","selectedElements":[]}</component_props>
+        <h>4</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 21:51:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>12bbbd904737f110308ff2cf016d433d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+        <sys_update_name>par_dashboard_widget_12bbbd904737f110308ff2cf016d433d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-02 15:38:21</sys_updated_on>
+        <visualization/>
+        <w>9</w>
+        <widget_props/>
+        <x>0</x>
+        <y>4</y>
+    </par_dashboard_widget>
+</record_update>

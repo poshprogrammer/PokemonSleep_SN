@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fc2bd6d747a33510308ff2cf016d4385" label="Sleep Style" max_length="40" name="x_151516_pok_mon_0_sleep_style" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Pokémon" mandatory="true" max_length="32" name="pokemon" reference="x_151516_pok_mon_0_pok_mon" type="reference"/>
+        <element choice="1" label="Rarity" mandatory="true" max_length="40" name="rarity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="⭐️⚪️⚪️⚪️⚪️" sequence="0" value="1_star"/>
+                <element inactive_on_update="false" label="⭐️⭐️⚪️⚪️⚪️" sequence="1" value="2_stars"/>
+                <element inactive_on_update="false" label="⭐️⭐️⭐️⚪️⚪️" sequence="2" value="3_stars"/>
+                <element inactive_on_update="false" label="⭐️⭐️⭐️⭐️⚪️" sequence="3" value="4_stars"/>
+                <element inactive_on_update="false" label="⭐️⭐️⭐️⭐️⭐️" sequence="4" value="5_stars"/>
+            </choice>
+        </element>
+        <element label="Studied" max_length="40" name="studied" type="boolean"/>
+        <index name="index">
+            <element name="pokemon"/>
+        </index>
+    </element>
+</database>

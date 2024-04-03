@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="rank" label="Rank" language="en" table="x_151516_pok_mon_0_research_area_level">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rank</element>
+            <help/>
+            <hint/>
+            <label>Rank</label>
+            <language>en</language>
+            <name>x_151516_pok_mon_0_research_area_level</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-12 16:21:10</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Rank</sys_name>
+            <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+            <sys_update_name>sys_documentation_x_151516_pok_mon_0_research_area_level_rank_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-12 16:24:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

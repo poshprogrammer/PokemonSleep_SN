@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="93ba39504737f110308ff2cf016d438c" sys_domain="global" table="x_151516_pok_mon_0_dish" version="3" view="workspace-pok233mon-sleep-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_id>d3ba39504737f110308ff2cf016d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_151516_pok_mon_0_dish" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">93ba39504737f110308ff2cf016d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_id>d7ba39504737f110308ff2cf016d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_151516_pok_mon_0_dish" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">93ba39504737f110308ff2cf016d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ingedients</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_id>dbba39504737f110308ff2cf016d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_151516_pok_mon_0_dish" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">93ba39504737f110308ff2cf016d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>link_to_serebii</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_id>dfba39504737f110308ff2cf016d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_151516_pok_mon_0_dish" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">93ba39504737f110308ff2cf016d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_id>d3ba39504737f110308ff2cf016d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_151516_pok_mon_0_dish" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">93ba39504737f110308ff2cf016d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>base_power</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_id>d7ba39504737f110308ff2cf016d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_151516_pok_mon_0_dish" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">93ba39504737f110308ff2cf016d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>level</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_id>dbba39504737f110308ff2cf016d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_151516_pok_mon_0_dish" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">93ba39504737f110308ff2cf016d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>adjusted_power_by_level</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_id>dfba39504737f110308ff2cf016d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_151516_pok_mon_0_dish" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">93ba39504737f110308ff2cf016d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unlocked</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_id>d3ba39504737f110308ff2cf016d438f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_151516_pok_mon_0_dish" sys_domain="global" view="dcba3550d237f1105c36d1be7f52355b">93ba39504737f110308ff2cf016d438c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_151516_pok_mon_0_dish</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-13 21:46:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93ba39504737f110308ff2cf016d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_151516_pok_mon_0_dish</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Pokémon Sleep" source="x_151516_pok_mon_0">613ffe2a47ef3110308ff2cf016d43e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pokémon Sleep">613ffe2a47ef3110308ff2cf016d43e7</sys_scope>
+            <sys_update_name>sys_ui_section_93ba39504737f110308ff2cf016d438c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-13 21:46:43</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Pok233mon Sleep 0" name="workspace-pok233mon-sleep-0">dcba3550d237f1105c36d1be7f52355b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
